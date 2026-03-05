@@ -1,16 +1,82 @@
-## Hi there 👋
+# Hi 👋 I'm Mahesh Dattatreya
 
-<!--
-**maheshdattatreya24/maheshdattatreya24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI & Data Science undergraduate passionate about building intelligent systems using Machine Learning and Deep Learning.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Final year B.Tech student in Artificial Intelligence & Data Science
+* Interested in Machine Learning, Deep Learning, NLP, and Computer Vision
+* Building real-world AI applications and research-driven projects
+* AI Research Intern at NIT Silchar (SN Bose Summer Research Fellowship)
+
+---
+
+## Technical Skills
+
+Programming
+Python, C
+
+Machine Learning
+Scikit-learn, XGBoost
+
+Deep Learning
+TensorFlow, PyTorch
+
+Natural Language Processing
+NLTK, HuggingFace
+
+Computer Vision
+OpenCV, YOLO
+
+Data Visualization
+Matplotlib, Seaborn, Plotly
+
+Deployment
+Streamlit, Flask
+
+---
+
+## Featured Projects
+
+### Indian Sign Language Recognition
+
+Deep learning system using EfficientNetB0 and BiLSTM for gesture recognition from video datasets.
+
+### Automated Data Insights Dashboard
+
+Interactive analytics dashboard built with Python and Streamlit.
+
+### Enterprise Predictive Analytics System
+
+Machine learning system for predicting customer behavior using logistic regression and random forest.
+
+### Sentiment Analysis Application
+
+NLP system for analyzing sentiment from social media text.
+
+---
+
+## Portfolio Website
+
+https://maheshdattatreya24.github.io/
+
+---
+
+## GitHub Stats
+
+![Mahesh GitHub stats](https://github-readme-stats.vercel.app/api?username=maheshdattatreya24\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshdattatreya24\&layout=compact\&theme=tokyonight)
+
+---
+
+## Connect With Me
+
+Email
+[tennetymaheshdattatreya@gmail.com](mailto:tennetymaheshdattatreya@gmail.com)
+
+GitHub
+https://github.com/maheshdattatreya24
+
+LinkedIn
+https://linkedin.com/in/mahesh-dattatreya-tennety
