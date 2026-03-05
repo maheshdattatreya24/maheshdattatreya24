@@ -10,7 +10,7 @@ AI & Data Science undergraduate passionate about building intelligent systems us
 * AI Research Intern at NIT Silchar (SN Bose Summer Research Fellowship)
 
 ---
-
+         
 ## Technical Skills
 
 Programming
