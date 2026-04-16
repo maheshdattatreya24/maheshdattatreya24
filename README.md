@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Mahesh Dattatreya Tennety
 
-🎓 **B.Tech in Artificial Intelligence & Data Science (2022–2026)**
+🎓 **B.Tech in Artificial Intelligence & Data Science (2022–2026)**<br>
 🧠 **AI | Generative AI | Deep Learning Enthusiast**
 🔬 **SN Bose Summer Research Fellow – NIT Silchar (DST-INSPIRE)**
 🧬 **Working on Generative AI for Drug Discovery**
