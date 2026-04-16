@@ -1,9 +1,9 @@
 # 👋 Hey, I'm Mahesh Dattatreya Tennety
 
 🎓 **B.Tech in Artificial Intelligence & Data Science (2022–2026)**<br>
-🧠 **AI | Generative AI | Deep Learning Enthusiast**
-🔬 **SN Bose Summer Research Fellow – NIT Silchar (DST-INSPIRE)**
-🧬 **Working on Generative AI for Drug Discovery**
+🧠 **AI | Generative AI | Deep Learning Enthusiast**<br>
+🔬 **SN Bose Summer Research Fellow – NIT Silchar (DST-INSPIRE)**<br>
+🧬 **Working on Generative AI for Drug Discovery**<br>
 
 ---
 
@@ -192,17 +192,17 @@ Streamlit Cloud • GitHub Deployment Workflow
 
 ## 🏆 Achievements
 
-🏅 **SN Bose Summer Research Fellowship – DST-INSPIRE (2025)**
-🏅 **Research Publication – ICETEG 2025**
-🏅 Built multiple **AI systems with real-world deployment**
+🏅 **SN Bose Summer Research Fellowship – DST-INSPIRE (2025)**<br>
+🏅 **Research Publication – ICETEG 2025**<br>
+🏅 Built multiple **AI systems with real-world deployment**<br>
 
 ---
 
 ## 🌐 Connect With Me
 
-📧 [tennetymaheshdattatreya@gmail.com](mailto:tennetymaheshdattatreya@gmail.com)
-🔗 GitHub: https://github.com/maheshdattatreya24
-🔗 LinkedIn: https://linkedin.com/in/mahesh-dattatreya-tennety
+📧 [tennetymaheshdattatreya@gmail.com](mailto:tennetymaheshdattatreya@gmail.com) <br>
+🔗 GitHub: https://github.com/maheshdattatreya24 <br>
+🔗 LinkedIn: https://linkedin.com/in/mahesh-dattatreya-tennety <br>
 
 ---
 
