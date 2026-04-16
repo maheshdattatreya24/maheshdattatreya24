@@ -77,20 +77,22 @@
 * Deployed via **Flask API**
 
 ---
-
 ## 🧠 Tech Stack
 
-### 💻 Programming
+### 💻 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
 
 ---
 
-### 🤖 AI / Machine Learning
+### 🤖 Machine Learning
 
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-EC6F00?style=for-the-badge\&logo=xgboost\&logoColor=white)
+
+**Concepts:**
+Regression • Classification • Feature Engineering • Model Evaluation
 
 ---
 
@@ -101,23 +103,41 @@
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge\&logo=keras\&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge\&logo=huggingface\&logoColor=black)
 
+**Core Areas:**
+CNN • LSTM • EfficientNet • VAE • GAN • Transformers • Reinforcement Learning
+
+---
+
+### 🧬 AI in Drug Discovery
+
+![RDKit](https://img.shields.io/badge/RDKit-0B3D91?style=for-the-badge)
+
+**Technologies & Concepts:**
+SMILES • SELFIES • Molecular Generation • Optimization • QED • LogP
+
+---
+
+### 🗣️ Natural Language Processing
+
+![Transformers](https://img.shields.io/badge/Transformers-FFB000?style=for-the-badge)
+![NLTK](https://img.shields.io/badge/NLTK-154F3C?style=for-the-badge)
+
+**Concepts:**
+Tokenization • Sequence Modeling
+
 ---
 
 ### 👁️ Computer Vision
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge\&logo=opencv\&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-111111?style=for-the-badge\&logo=darkreader\&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-111111?style=for-the-badge)
+
+**Concepts:**
+Image Processing • Video Processing
 
 ---
 
-### 🗣️ NLP
-
-![NLTK](https://img.shields.io/badge/NLTK-154F3C?style=for-the-badge)
-![Transformers](https://img.shields.io/badge/Transformers-FFB000?style=for-the-badge)
-
----
-
-### 📊 Data & Visualization
+### 📊 Data Analysis & Visualization
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
@@ -125,6 +145,26 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-2E4053?style=for-the-badge)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge\&logo=plotly)
 
+**Concepts:**
+Data Cleaning • EDA • Data Pipelines
+
+---
+
+### ⚙️ Deployment & Tools
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask)
+![Jupyter](https://img.shields.io/badge/Jupyter-DA5B0B?style=for-the-badge\&logo=jupyter)
+
+**Platforms:**
+Streamlit Cloud • GitHub Deployment Workflow
+
+---
+
+### 🔧 Version Control
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
 ---
 
 ### ⚙️ Deployment & Tools
