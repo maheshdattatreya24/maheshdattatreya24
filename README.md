@@ -2,7 +2,7 @@
 
 🎓 **B.Tech in Artificial Intelligence & Data Science (2022–2026)**<br>
 🧠 **AI | Generative AI | Deep Learning Enthusiast**<br>
-🔬 **SN Bose Summer Research Fellow – NIT Silchar (DST-INSPIRE)**<br>
+🔬 **SN Bose Summer Research Intern – NIT Silchar (DST-INSPIRE)**<br>
 🧬 **Working on Generative AI for Drug Discovery**<br>
 
 ---
@@ -19,7 +19,7 @@
 
 ## 💼 Experience
 
-🔬 **AI Research Intern – SN Bose Summer Fellowship (DST-INSPIRE)**
+🔬 **AI Research Intern – SN Bose Summer Internship (DST-INSPIRE)**
 *NIT Silchar | Jun – Jul 2025*
 
 * Built deep learning-based **pattern recognition pipelines**
